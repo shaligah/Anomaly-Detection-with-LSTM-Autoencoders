@@ -4,7 +4,7 @@ Ever wondered what it feels like to predict engine failures before they happen? 
 
 This project uses an LSTM autoencoder to detect anomalies in engine sensor data from the NASA C-MAPSS FD001 dataset. Think of it as giving your engines a sixth sense — warning them (and you) before they break down.
 
-##🎯 Project Highlights
+## 🎯 Project Highlights
 
 - Dataset: NASA FD001 — multiple engines with rich sensor telemetry.
 
@@ -15,8 +15,7 @@ This project uses an LSTM autoencoder to detect anomalies in engine sensor data 
 - Visualization: See the rise of reconstruction errors and pinpoint anomalies on interactive and static plots.
 
 ## 🛠️ Features
-
--🚦 Anomaly Detection: Automatically flags unusual engine behavior.
+- 🚦 Anomaly Detection: Automatically flags unusual engine behavior.
 
 - 📊 Engine-specific analysis: Visualize reconstruction error per engine.
 
@@ -43,4 +42,24 @@ This project uses an LSTM autoencoder to detect anomalies in engine sensor data 
 
 - Sensor trends across time
 
--- shaded degradation regions for easy spotting of early warning signs
+- shaded degradation regions for easy spotting of early warning signs
+
+## 🤓 Why This Is Cool
+
+- Catch engine failures before they happen.
+
+- Explore sensor data like a digital detective.
+
+- Customize thresholds and visualizations to suit your needs.
+
+## 🛠️ Next Steps / TODO
+
+ [] Forecast sesnor readings to predict future anomalies
+ 
+ [] Add interactive dashboards with Plotly
+
+ [] Compare LSTM with other models (GRU, CNN Autoencoders)
+
+## 💡 Fun Fact
+
+Did you know? Early detection of anomalies in engines can save millions in maintenance costs and prevent catastrophic failures — all without breaking a sweat! 😎
