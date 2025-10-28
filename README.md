@@ -54,11 +54,11 @@ This project uses an LSTM autoencoder to detect anomalies in engine sensor data 
 
 ## 🛠️ Next Steps / TODO
 
- [] Forecast sesnor readings to predict future anomalies
+- [ ] Forecast sesnor readings to predict future anomalies
  
- [] Add interactive dashboards with Plotly
+- [ ] Add interactive dashboards with Plotly
 
- [] Compare LSTM with other models (GRU, CNN Autoencoders)
+- [ ] Compare LSTM with other models (GRU, CNN Autoencoders)
 
 ## 💡 Fun Fact
 
